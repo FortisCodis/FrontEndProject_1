@@ -1,5 +1,5 @@
-# FrontEndProject_1
-## Presentation
+# FrontEndProjects
+## Repository presentation
 ***English***
 
 Hello !
@@ -15,8 +15,8 @@ Feel free to advise me on how to improve my code (or maybe, how to improve my en
 
 Bonjour !
 
-Le principal but de dépot est de partager mes differents projets front-end.
-La mojorité de mes projets sont des challenges effectués sur le site <https://www.frontendmentor.io>.
+Le principal but de ce dépot est de partager mes differents projets front-end.
+La majorité de mes projets sont des challenges effectués sur le site <https://www.frontendmentor.io>.
 Donc je propose des solutions à ces challenges.
 Pour chaque projet, il y aura le lien du challenge (si s'en est un).
 N'hésitez pas à me conseiller sur la façon d'améliorer mon code !
