@@ -20,3 +20,10 @@ La majorité de mes projets sont des challenges effectués sur le site <https://
 Donc je propose des solutions à ces challenges.
 Pour chaque projet, il y aura le lien du challenge (si s'en est un).
 N'hésitez pas à me conseiller sur la façon d'améliorer mon code !
+
+
+| Difficulty | Table of Contents                                                     |
+| ---------- | --------------------------------------------------------------------- |
+| NEWBIE     | [Order Summary Component](#order-summary-component)                   |
+
+
