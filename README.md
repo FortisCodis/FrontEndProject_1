@@ -35,6 +35,6 @@ N'hésitez pas à me conseiller sur la façon d'améliorer mon code !
 
 ### Links
 
-- Repository URL : 
+- Repository URL : <https://github.com/FortisCodis/P1--order_summary_component>
 - Live site URL : <https://fortiscodis.github.io/P1--order_summary_component/>
 - Challenge URL : <https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj> 
