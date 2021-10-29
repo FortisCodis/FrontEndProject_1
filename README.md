@@ -23,10 +23,12 @@ N'hésitez pas à me conseiller sur la façon d'améliorer mon code !
 
 ## Table of Contents
 
-| Difficulty | Name of the challenge                                                |
+| Difficulty | Name of the challenge                                                 |
 | ---------- | --------------------------------------------------------------------- |
 | NEWBIE     | [Order Summary Component](#order-summary-component)                   |
+| NEWBIE     | [Stats Preview Card Component](#stats-preview-card-component)         |
 
+<!---Project1--->
 ## Order Summary Component
 
 ### Screenshot
@@ -37,4 +39,17 @@ N'hésitez pas à me conseiller sur la façon d'améliorer mon code !
 
 - Repository URL : <https://github.com/FortisCodis/P1--order_summary_component>
 - Live site URL : <https://fortiscodis.github.io/P1--order_summary_component/>
-- Challenge URL : <https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj> 
+- Challenge URL : <https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj>
+
+<!---Project2--->
+## Stats Preview Card Component
+
+### Screenshot
+
+![screenshot](./screenshots/stats_preview_card_component.jpg)
+
+### Links
+
+- Repository URL : <https://github.com/FortisCodis/P2--stats-preview-card-component-main>
+- Live site URL : <https://fortiscodis.github.io/P2--stats-preview-card-component-main/>
+- Challenge URL : <https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62>
