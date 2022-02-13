@@ -51,5 +51,5 @@ N'hésitez pas à me conseiller sur la façon d'améliorer mon code !
 ### Links
 
 - Repository URL : <https://github.com/FortisCodis/P2--stats-preview-card-component-main>
-- Live site URL : <https://fortiscodis.github.io/P2--stats-preview-card-component-main/>
+- Live site URL : <https://fortiscodis.github.io/P2--stats-preview-card-component/>
 - Challenge URL : <https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62>
